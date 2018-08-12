@@ -1,0 +1,77 @@
+body {
+  background-image: url("img/background.jpg");
+  background-size: 130%;
+  font-family: Lato-Light,sans-serif;
+}
+
+header .img1 {
+  height: 40px;
+  background: rgba(255, 0, 0, 0);
+  margin: 15px 0 0 20px;
+}
+
+header ul {
+  float: right;
+  list-style: none;
+  margin-right: 30px;
+  padding-top: 20px;
+}
+
+header ul li {
+  line-height: 1.375em;
+  font-size: 1em;
+  font-weight: 400;
+  float: left;
+  margin-left: 35px;
+}
+
+ul img {
+  width: 20px; 
+  height: 20px;
+  margin-left: -25px;
+}
+
+.red, section span  {
+  color: #f84848;
+}
+
+section {
+  text-align: center;
+  margin-top: 6%;
+}
+
+h2 {
+  font-size: 2.75em;
+  font-weight: 100;  
+}
+
+body, a {
+  color: #fff;
+}
+
+section p {
+  font-size: 1.25em;
+  line-height: 1.625em;
+}
+
+section ul {
+  margin-top: 6%;
+  margin-left: 20%;
+  font-size: 1.2em;
+  list-style: none;
+}
+
+section ul li {
+  float: left;
+  margin-left: 50px;
+}
+
+section span {
+  margin-right: 10px;
+}
+
+footer {
+  margin-top: 16%;
+  text-align: center;
+}
+
