@@ -45,6 +45,10 @@ h2 {
   font-weight: 100;  
 }
 
+header a {
+  text-decoration: none;
+}
+
 body, a {
   color: #fff;
 }
